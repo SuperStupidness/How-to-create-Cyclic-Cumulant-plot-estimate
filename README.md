@@ -4,4 +4,4 @@ Hello, this is just a small guide on how to create Cylic Cumulant plot. The pyth
 
 <img src="img/BPSK_cc_plot_8.png" width="600" height="300">
 
-<img src="img/all_cc_plot_8.png" width="1000" height="600">
+<img src="img/all_cc_plot_8.png" width="600" height="600">
